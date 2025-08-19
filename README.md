@@ -25,7 +25,7 @@ Ready for a 2–5 min demo video.
 
 ⚡ Quickstart
 1. Clone this repository
-git clone https://github.com/your-username/ai-astrologer.git
+git clone git@github.com:goelayush7/Astrology.git
 cd ai-astrologer
 
 2. Create and activate a virtual environment (recommended)
